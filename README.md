@@ -5,3 +5,5 @@ This repository has all components necessary for AppDomainManager injection. Thi
 3. Rename app.config to target_binary.exe.config.<br/>
 4. Host DLL for injection.<br/>
 5. Execute target_binary.exe<br/>
+<br/>
+Source: https://gist.github.com/djhohnstein/afb93a114b848e16facf0b98cd7cb57b
